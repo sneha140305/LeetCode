@@ -1,2 +1,78 @@
-# LeetCode
-🚀 My LeetCode solutions in Java, automatically synced using LeetHub. Documenting my DSA journey for coding interview preparation.
+# 🚀 LeetCode Solutions
+
+Welcome to my LeetCode Solutions repository!
+
+This repository contains my accepted LeetCode solutions in **Java**, automatically synchronized from **LeetCode** to **GitHub** using **LeetHub**. It serves as a record of my Data Structures & Algorithms (DSA) journey and my preparation for software engineering interviews.
+
+---
+
+## 👩‍💻 About Me
+
+Hi, I'm **Sneha Choudhary**.
+
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning
+- 💻 Aspiring Software Engineer
+- ☕ Primary Language: Java
+- 🌱 Currently learning Data Structures & Algorithms
+- 🤖 Interested in Artificial Intelligence, Machine Learning, and Backend Development
+
+---
+
+## 📚 Repository Purpose
+
+This repository is created to:
+
+- Practice Data Structures & Algorithms
+- Improve problem-solving skills
+- Track my coding progress
+- Prepare for coding interviews
+- Maintain a consistent coding habit
+
+---
+
+## 💻 Programming Language
+
+- ☕ Java
+
+---
+
+## 📂 Repository Structure
+
+```
+LeetCode/
+│
+├── 0001-Two-Sum/
+│   ├── README.md
+│   └── Solution.java
+│
+├── 0020-Valid-Parentheses/
+│   ├── README.md
+│   └── Solution.java
+│
+├── 0070-Climbing-Stairs/
+│   ├── README.md
+│   └── Solution.java
+│
+└── ...
+```
+
+---
+
+## 🎯 Learning Goals
+
+- ✅ Master Data Structures
+- ✅ Master Algorithms
+- ✅ Solve 300+ LeetCode problems
+- ✅ Improve coding speed
+- ✅ Prepare for Software Engineering interviews
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: **https://github.com/sneha140305**
+- LinkedIn: **https://www.linkedin.com/in/sneha-choudhary-2710972b2**
+
+---
+
+⭐ **Thank you for visiting my repository!**
