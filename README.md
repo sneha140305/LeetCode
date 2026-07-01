@@ -100,4 +100,12 @@ LeetCode/
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sneha140305/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sneha140305/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sneha140305/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
