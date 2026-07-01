@@ -83,6 +83,7 @@ LeetCode/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sneha140305/LeetCode/tree/master/0001-two-sum) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sneha140305/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +96,8 @@ LeetCode/
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/sneha140305/LeetCode/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/sneha140305/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
