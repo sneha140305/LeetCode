@@ -84,6 +84,7 @@ LeetCode/
 | ------- |
 | [0001-two-sum](https://github.com/sneha140305/LeetCode/tree/master/0001-two-sum) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sneha140305/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/sneha140305/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Hash Table
 |  |
 | ------- |
@@ -108,4 +109,8 @@ LeetCode/
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sneha140305/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/sneha140305/LeetCode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
