@@ -83,6 +83,7 @@ LeetCode/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sneha140305/LeetCode/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/sneha140305/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sneha140305/LeetCode/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha140305/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sneha140305/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -119,6 +120,7 @@ LeetCode/
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/sneha140305/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/sneha140305/LeetCode/tree/master/0162-find-peak-element) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha140305/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sneha140305/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
