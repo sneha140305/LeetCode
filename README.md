@@ -89,6 +89,7 @@ LeetCode/
 | [0268-missing-number](https://github.com/sneha140305/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sneha140305/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/sneha140305/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sneha140305/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sneha140305/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/sneha140305/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sneha140305/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -99,6 +100,7 @@ LeetCode/
 | ------- |
 | [0001-two-sum](https://github.com/sneha140305/LeetCode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sneha140305/LeetCode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sneha140305/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sneha140305/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Two Pointers
 |  |
@@ -158,4 +160,5 @@ LeetCode/
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sneha140305/LeetCode/tree/master/0268-missing-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sneha140305/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 <!---LeetCode Topics End-->
