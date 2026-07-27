@@ -117,6 +117,7 @@ LeetCode/
 | [0202-happy-number](https://github.com/sneha140305/LeetCode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/sneha140305/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/sneha140305/LeetCode/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -134,6 +135,7 @@ LeetCode/
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sneha140305/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sneha140305/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sneha140305/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
