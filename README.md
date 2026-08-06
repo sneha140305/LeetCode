@@ -122,6 +122,7 @@ LeetCode/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sneha140305/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/sneha140305/LeetCode/tree/master/0344-reverse-string) |
 ## Math
 |  |
@@ -184,4 +185,12 @@ LeetCode/
 | [0268-missing-number](https://github.com/sneha140305/LeetCode/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sneha140305/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/sneha140305/LeetCode/tree/master/0645-set-mismatch) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sneha140305/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sneha140305/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
