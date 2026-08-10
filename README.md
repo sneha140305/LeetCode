@@ -124,6 +124,7 @@ LeetCode/
 | ------- |
 | [0020-valid-parentheses](https://github.com/sneha140305/LeetCode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/sneha140305/LeetCode/tree/master/0344-reverse-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sneha140305/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Math
 |  |
 | ------- |
@@ -169,6 +170,7 @@ LeetCode/
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/sneha140305/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sneha140305/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -189,8 +191,10 @@ LeetCode/
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sneha140305/LeetCode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sneha140305/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sneha140305/LeetCode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sneha140305/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
