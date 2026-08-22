@@ -86,6 +86,7 @@ LeetCode/
 | [0033-search-in-rotated-sorted-array](https://github.com/sneha140305/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sneha140305/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/sneha140305/LeetCode/tree/master/0041-first-missing-positive) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha140305/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/sneha140305/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sneha140305/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sneha140305/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -203,6 +204,7 @@ LeetCode/
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sneha140305/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha140305/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Breadth-First Search
 |  |
@@ -212,9 +214,18 @@ LeetCode/
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sneha140305/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha140305/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha140305/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha140305/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
