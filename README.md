@@ -207,11 +207,13 @@ LeetCode/
 | [0104-maximum-depth-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha140305/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sneha140305/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -219,11 +221,13 @@ LeetCode/
 | [0104-maximum-depth-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha140305/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
