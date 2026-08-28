@@ -210,6 +210,7 @@ LeetCode/
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ LeetCode/
 | [0102-binary-tree-level-order-traversal](https://github.com/sneha140305/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -227,6 +229,7 @@ LeetCode/
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -235,6 +238,7 @@ LeetCode/
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0993-cousins-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
