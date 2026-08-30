@@ -140,6 +140,7 @@ LeetCode/
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sneha140305/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/sneha140305/LeetCode/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sneha140305/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/sneha140305/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sneha140305/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -208,6 +209,7 @@ LeetCode/
 | [0104-maximum-depth-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha140305/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sneha140305/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sneha140305/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -218,6 +220,7 @@ LeetCode/
 | [0101-symmetric-tree](https://github.com/sneha140305/LeetCode/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/sneha140305/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sneha140305/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sneha140305/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0993-cousins-in-binary-tree) |
@@ -229,6 +232,7 @@ LeetCode/
 | [0104-maximum-depth-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sneha140305/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sneha140305/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sneha140305/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0543-diameter-of-binary-tree) |
@@ -239,6 +243,7 @@ LeetCode/
 | [0101-symmetric-tree](https://github.com/sneha140305/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sneha140305/LeetCode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/sneha140305/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sneha140305/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0543-diameter-of-binary-tree) |
