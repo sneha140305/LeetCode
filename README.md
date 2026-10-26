@@ -215,6 +215,7 @@ LeetCode/
 | [0199-binary-tree-right-side-view](https://github.com/sneha140305/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -227,6 +228,7 @@ LeetCode/
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/sneha140305/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/sneha140305/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -242,6 +244,7 @@ LeetCode/
 | [0199-binary-tree-right-side-view](https://github.com/sneha140305/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -253,6 +256,7 @@ LeetCode/
 | [0199-binary-tree-right-side-view](https://github.com/sneha140305/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/sneha140305/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Divide and Conquer
 |  |
